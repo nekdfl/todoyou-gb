@@ -1,0 +1,9 @@
+.idea
+.venv
+
+*.pyc
+pycache/
+
+db.sqlite3
+/.env
+/*/migrations/
