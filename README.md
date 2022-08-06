@@ -15,7 +15,7 @@
 ## Порядок развертывания
 
 ```
-git clone git@gitlab.com:nekdfl-geekbrains/todoyou-gb.git
+git clone git@github.com:nekdfl/todoyou-gb.git
 cd todoyou-gb
 python -m venv .venv
 source .venv/bin/activate
